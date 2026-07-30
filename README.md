@@ -1,6 +1,6 @@
 # ¡Hola! Soy Carlos Pérez 👋
 
-Estudiante de **Computación e Informática** orientado al **Desarrollo Backend** y la Arquitectura de Software. Especializado en el diseño e implementación de APIs RESTful, persistencia de datos y aplicaciones empresariales con **Java (Spring Boot)** y **C# (.NET Core)**.
+Estudiante de **Computación e Informática** orientado al **Desarrollo Full Stack** y la Arquitectura de Software. Especializado en el diseño e implementación de APIs RESTful, persistencia de datos y aplicaciones empresariales con **Java (Spring Boot)** y **C# (.NET Core)**.
 
 ---
 
